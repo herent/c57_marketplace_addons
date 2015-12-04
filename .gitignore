@@ -17,17 +17,8 @@ composer.phar
 /application/files/*
 !/application/files/index.html
 
-/concrete/vendor
-
 # ignore updates folder
 /updates/*
-
-# ignore packages folder
-/packages/*
-/concrete/packages/*
-
-# more stuff
-/application/languages/*
 
 # ignore sitemap.xml
 /sitemap.xml
