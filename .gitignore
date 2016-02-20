@@ -12,6 +12,7 @@ composer.phar
 
 # ignore the config
 /application/config/*
+!/application/config/.gitsave
 
 # ignore everything but the index.html
 /application/files/*
